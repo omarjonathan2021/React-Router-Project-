@@ -3,25 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Details 
-Create a movie app where you can present your favorite movies or TV shows. 
+In this checkpoint, We are going to use the movie app we have created in the [previous Checkpoint](https://github.com/omarjonathan2021/Movie-App-Project)
+ and afterward, we will use the router library to route our views.
 
-Create the following components:
-- MovieCard
-- MovieList
-- Filter ( title, rate)
+Our task is to add a description and the trailer link (embed video link) to the object movie.
+- Every time I click on a movie card, it will take me to the movie description and trailer page.
+- In the description page, I can navigate back to the home page.
 
-Every movie should have the following attributes: 
-- title
-- description 
-- posterURL 
-- rating
-
-The user should be:
-- Able to add a new movie.
-- Filter the movies with title/rating.
-
-
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
